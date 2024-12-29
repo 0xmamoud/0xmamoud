@@ -1,6 +1,18 @@
 # 💫 About Me:
-👋 Hi, I'm Mahamadou!<br>💻 Passionate Software Engineer and aspiring Tech Entrepreneur based in Paris<br>🎓 Currently honing my skills at 42 Paris School<br>🌱 Always exploring cutting-edge technologies and innovative solutions<br>🚀 Excited to build impactful projects and contribute to the tech community<br>✍️ Love to share knowledge, collaborate, and inspire others<br>📬 Reach me at: pro@mamoud.dev<br><br>Feel free to explore my work and connect—let's shape the future of tech together! 🌟
+👋 Hi, I'm **Mahamadou**!  
+💻 Passionate **Software Engineer** and aspiring **Tech Entrepreneur** based in Paris  
+🎓 Currently honing my skills at **42 Paris School**  
+🌱 Always exploring **cutting-edge technologies** and innovative solutions  
+🚀 Excited to build impactful projects and contribute to the tech community  
+✍️ Love to share knowledge, collaborate, and inspire others  
+📬 Reach me at: **pro@mamoud.dev**  
 
+## **Building:**
+- [HomeToq](https://hometoq.com/)  
+- [Deep Advisory](https://www.deepadvisory.fr/)  
+- **Better Bot v3** *(coming soon!)*  
+
+Feel free to explore my work and connect—let's shape the future of tech together! 🌟
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mamoud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahamadou-kane-a37b9b23a) 
