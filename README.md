@@ -9,8 +9,6 @@
 
 ## **Building:**
 - [HomeToq](https://hometoq.com/)  
-- [Deep Advisory](https://www.deepadvisory.fr/)
-- [42 blockchain](https://42-blockchain-puce.vercel.app/) 
 - **Better Bot v3** *(coming soon!)*  
 
 Feel free to explore my work and connect—let's shape the future of tech together! 🌟
