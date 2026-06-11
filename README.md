@@ -1,10 +1,15 @@
-# Mahamadou Kane
+<div align="center">
 
-Full Stack Engineer who masters the full application lifecycle, from system architecture to production. I'm passionate about building intelligent, scalable, and performant applications across the entire stack. Backed by solid systems programming fundamentals and an active focus on distributed systems, I'm working toward the intersection of robust infrastructure and applied AI.
+### Hi, I'm Mahamadou 👋
 
-📬 pro@mamoud.dev · Paris, France
+Full Stack Engineer based in Paris — building across the entire stack, from system architecture to production.<br>
+Focused on distributed systems and applied AI.
+
+📬 pro@mamoud.dev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahamadou-kane-a37b9b23a)
+
+</div>
 
 ---
 
